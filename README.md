@@ -39,6 +39,9 @@ By default, ALL domains are selected but this can take
 a long time to process. It is best to restrict the
 actors to a few domains that you are interested in.
 
+## Screenshot
+
+![Image of aux2svg](./img/screengrab.png)
 
 ## Usage
 
