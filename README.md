@@ -1,4 +1,4 @@
-# CICS AUXLIARY TRACE VISUALISER
+# CICS AUXILIARY TRACE VISUALISER
 
 ## Function
 
@@ -19,8 +19,8 @@ seconds since the start of the trace and the task id.
 All the interactions for a task are assigned the same
 unique color. Each interaction is annotated with the
 trace sequence number, to enable you to refer back to
-the original trace record for more detail, and a summ-
-ary of the call and return values. Exception responses
+the original trace record for more detail, and a summary 
+of the call and return values. Exception responses
 are shown in red.
 
 You can choose which actors you are interested in by
@@ -52,8 +52,8 @@ or Windows using Regina Rexx from:
 
 If you run aux2svg under z/OS, then it will create
 either output datasets or PDS members depending on
-whether the input auxliary trace print file is in
-a sequential dataset or a partioned dataset.
+whether the input auxiliary trace print file is in
+a sequential dataset or a partitioned dataset.
 
 For an input sequential dataset "dsn", the following
 files will be created:
@@ -123,7 +123,7 @@ The supported CICS trace domains include:
 | Domain | Description |
 | - | - |
 | AP | Application Domain | 
-| BA | Business Application Manager Domai
+| BA | Business Application Manager Domain |
 | CC | CICS Catalog Domain | 
 | DD | Directory Domain | 
 | DH | Document Handler Domain | 
@@ -131,7 +131,7 @@ The supported CICS trace domains include:
 | DP | Debugging Profiles Domain | 
 | DS | Dispatcher Domain | 
 | DU | Dump Domain | 
-| EI | External CICS Interface over TCP/I
+| EI | External CICS Interface over TCP/IP |
 | EJ | Enterprise Java Domain | 
 | EM | Event Manager Domain | 
 | EP | Event Processing Domain | 

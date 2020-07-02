@@ -80,8 +80,8 @@
 **                                                                   **
 **            If you run aux2svg under z/OS, then it will create     **
 **            either output datasets or PDS members depending on     **
-**            whether the input auxliary trace print file is in      **
-**            a sequential dataset or a partioned dataset.           **
+**            whether the input auxiliary trace print file is in     **
+**            a sequential dataset or a partitioned dataset.         **
 **                                                                   **
 **            For an input sequential dataset "dsn", the following   **
 **            files will be created:                                 **
